@@ -85,42 +85,7 @@ High-quality data is critical for informed decision-making. This project demonst
 - Data Integrity Validation
 - Exploratory Data Analysis
 - Documentation & Reproducibility
-- Professional Data Workflow
 
----
-
-##  Project Structure
-
-```
-Integrated_project_P3_Validating_our_data_student.ipynb
-README.md
-```
-
----
-
-##  How to Run the Project
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-```
-
-2. Navigate into the project directory:
-
-```bash
-cd your-repo-name
-```
-
-3. Open the notebook:
-
-```bash
-jupyter notebook
-```
-
-4. Run all cells sequentially.
-
----
 
 ##  Why This Project Matters
 
